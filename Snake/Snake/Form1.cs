@@ -93,92 +93,88 @@ namespace Snake
             realtime.updateForNextFrame();
 
             // Checks if a network connection is established.
-            if (isConnected)
-            {
-                // Sets the username for both server and client snakes.
-                snake_server.userName();
-                snake_client.userName();
-                // If this instance is the host.
-                if (isHost)
-                {
-                    // Set the client snake's username based on the received game state.
-                    snake_client.setUsername(gameState.usernameClient);
-                    // Set the server snake's username to the local player's username.
-                    snake_server.setUsername(userName);
-                }
-                // If this instance is the client.
-                else
-                {
-                    // Set the client snake's username to the local player's username.
-                    snake_client.setUsername(userName);
-                    // Set the server snake's username based on the received game state.
-                    snake_server.setUsername(gameState.usernameServer);
-                }
-
-                // If the apple field has not been generated yet.
-                if (genratedAppleField == false)
-                {
-                    // Create a new apple field with a specified number of apples and a single power-up.
-                    field = new AppleField(this, 3, 1);
-                    // Add both the server and client snakes to the apple field.
-                    field.getSnakes().Add(snake_server);
-                    field.getSnakes().Add(snake_client);
-                    // Mark the apple field as generated.
-                    genratedAppleField = true;
-                }
-                // Place the apples on the field (likely for drawing).
-                field.put();
-            }
+            
 
             // Acquire a lock to ensure thread-safe modification of the game state.
             lock (stateLock)
             {
-                // If this instance is the host.
-                if (isHost)
+                
+                if (isConnected)
                 {
-                    // Generate the next movement for the server snake based on input.
-                    snake_server.gen();
-                    // Ensure the server snake stays within the bounds of the screen.
-                    snake_server.setBoundsToScreen();
-                    // Update the server snake's state based on the game loop and enable drawing.
-                    snake_server.debug_standard_update(realtime, true);
-
-                    // Apply the latest client position received from the network.
-                    if (isConnected)
+                    // If the apple field has not been generated yet.
+                    if (genratedAppleField == false)
                     {
-                        // Generate the next movement for the client snake (though the host doesn't control it directly).
-                        snake_client.gen();
-                        // Ensure the client snake stays within the bounds of the screen.
-                        snake_client.setBoundsToScreen();
-                        // Connect the head of the client snake to its body segments.
-                        snake_client.connectHeadToBody(snake_client.getMovingBody().getBody());
-                        // Directly update the client snake's position based on the received game state.
-                        snake_client.getMovingBody().getBody().changePos(gameState.ClientState.X, gameState.ClientState.Y);
+                        // Create a new apple field with a specified number of apples and a single power-up.
+                        field = new AppleField(this, 5, 1);
+                        // Add both the server and client snakes to the apple field.
+                        field.getSnakes().Add(snake_server);
+                        field.getSnakes().Add(snake_client);
+                        // Mark the apple field as generated.
+                        genratedAppleField = true;
                     }
-                }
-                // If this instance is the client.
-                else
-                {
-                    // Generate the next movement for the client snake based on input.
-                    snake_client.gen();
-                    // Ensure the client snake stays within the bounds of the screen.
-                    snake_client.setBoundsToScreen();
-                    // Update the client snake's state based on the game loop and enable drawing.
-                    snake_client.debug_standard_update(realtime, true);
-
-                    // Apply the latest server position received from the network.
-                    if (isConnected)
+                    // Place the apples on the field (likely for drawing).
+                    field.put();
+                    // Sets the username for both server and client snakes.
+                    snake_server.userName();
+                    snake_client.userName();
+                    // If this instance is the host.
+                    if (isHost)
                     {
-                        // Generate the next movement for the server snake (though the client doesn't control it directly).
+                        // Set the client snake's username based on the received game state.
+                        snake_client.setUsername(gameState.usernameClient);
+                        // Set the server snake's username to the local player's username.
+                        snake_server.setUsername(userName);
+                        // Generate the next movement for the server snake based on input.
                         snake_server.gen();
                         // Ensure the server snake stays within the bounds of the screen.
                         snake_server.setBoundsToScreen();
-                        // Connect the head of the server snake to its body segments.
-                        snake_server.connectHeadToBody(snake_server.getMovingBody().getBody());
+                        // Update the server snake's state based on the game loop and enable drawing.
+                        snake_server.debug_standard_update(realtime, true);
 
-                        // Directly update the server snake's position based on the received game state.
-                        snake_server.getMovingBody().getBody().changePos(gameState.ServerState.X, gameState.ServerState.Y);
+                        // Apply the latest client position received from the network.
+                        if (isConnected)
+                        {
+                            // Generate the next movement for the client snake (though the host doesn't control it directly).
+                            snake_client.gen();
+                            // Ensure the client snake stays within the bounds of the screen.
+                            snake_client.setBoundsToScreen();
+                            // Connect the head of the client snake to its body segments.
+                            snake_client.connectHeadToBody(snake_client.getMovingBody().getBody());
+                            // Directly update the client snake's position based on the received game state.
+                            snake_client.getMovingBody().getBody().changePos(gameState.ClientState.X, gameState.ClientState.Y);
+                        }
                     }
+                    // If this instance is the client.
+                    else
+                    {
+                        // Set the client snake's username to the local player's username.
+                        snake_client.setUsername(userName);
+                        // Set the server snake's username based on the received game state.
+                        snake_server.setUsername(gameState.usernameServer);
+                        // Generate the next movement for the client snake based on input.
+                        snake_client.gen();
+                        // Ensure the client snake stays within the bounds of the screen.
+                        snake_client.setBoundsToScreen();
+                        // Update the client snake's state based on the game loop and enable drawing.
+                        snake_client.debug_standard_update(realtime, true);
+
+                        // Apply the latest server position received from the network.
+                        if (isConnected)
+                        {
+                            // Generate the next movement for the server snake (though the client doesn't control it directly).
+                            snake_server.gen();
+                            // Ensure the server snake stays within the bounds of the screen.
+                            snake_server.setBoundsToScreen();
+                            // Connect the head of the server snake to its body segments.
+                            snake_server.connectHeadToBody(snake_server.getMovingBody().getBody());
+
+                            // Directly update the server snake's position based on the received game state.
+                            snake_server.getMovingBody().getBody().changePos(gameState.ServerState.X, gameState.ServerState.Y);
+                        }
+                    }
+
+                    
+                    
                 }
             }
 
@@ -195,10 +191,15 @@ namespace Snake
         // Event handler for the "Host" button click.
         private async void button1_Click(object sender, EventArgs e)
         {
+            
             try
             {
                 // Set the flag indicating this instance is the host.
                 isHost = true;
+                this.Controls.Remove(button1);
+                this.Controls.Remove(button2);
+                this.Controls.Remove(label2);
+                this.Controls.Remove(textBox1);
                 // Update the connection status label.
                 lblConnection.Text = "Starting server...";
 
@@ -234,6 +235,7 @@ namespace Snake
 
                 // Output a message to the console indicating a successful host connection.
                 Console.WriteLine("Connection established as Host.");
+                
             }
             catch (Exception ex)
             {
@@ -276,6 +278,10 @@ namespace Snake
 
                     // Initialize the client's known game state.
                     client.SetGameState(gameState);
+                    this.Controls.Remove(button1);
+                    this.Controls.Remove(button2);
+                    this.Controls.Remove(label2);
+                    this.Controls.Remove(textBox1);
                 }
 
                 // Start the network communication loop in a separate task.
@@ -362,8 +368,7 @@ namespace Snake
                             }
                         }
                     }
-
-                    // Introduce a small delay to control the update rate (approximately 30 updates per second).
+                    //Just incase I need this later :)
                     await Task.Delay(0);
                     // Check for head-on collision between the server snake and the client snake.
                     snake_server.debug_standard_head_collsion_rules(snake_client, realtime);
