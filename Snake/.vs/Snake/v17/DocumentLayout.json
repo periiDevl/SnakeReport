@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|h:\\development\\c#\\school\\snakereport\\snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|h:\\development\\c#\\school\\snakereport\\snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,32 +55,8 @@
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\applefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\movingbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\movingbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -69,6 +65,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|H:\\Development\\C#\\school\\SnakeReport\\Snake\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FAAC8964-9054-4ECE-8077-866FAD750728}|Snake\\Snake.csproj|solutionrelative:snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Development\\C#\\school\\SnakeReport\\Snake\\ServerSNAKE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerSNAKE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,21 +78,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.cs",
               "RelativeDocumentMoniker": "Snake\\Form1.cs",
               "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.cs",
               "RelativeToolTip": "Snake\\Form1.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAAD4vxsBAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAFcBAAAAAAAAAADwv1ABAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T20:24:06.808Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -102,48 +110,14 @@
               "RelativeDocumentMoniker": "Snake\\Program.cs",
               "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Program.cs",
               "RelativeToolTip": "Snake\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:12:19.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MovingBody.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\MovingBody.cs",
-              "RelativeDocumentMoniker": "Snake\\MovingBody.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\MovingBody.cs",
-              "RelativeToolTip": "Snake\\MovingBody.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:43:26.152Z"
+              "WhenOpened": "2025-04-08T20:12:19.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
-              "RelativeDocumentMoniker": "Snake\\Login.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\CyberWork\\Snake\\Snake\\Snake\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\CyberWork\\Snake\\Snake\\Snake\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T19:51:10.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Client.cs",
-              "RelativeDocumentMoniker": "Snake\\Client.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Client.cs",
-              "RelativeToolTip": "Snake\\Client.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:33:52.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Body.cs",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Body.cs",
               "RelativeDocumentMoniker": "Snake\\Body.cs",
@@ -151,11 +125,12 @@
               "RelativeToolTip": "Snake\\Body.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:09:27.106Z"
+              "WhenOpened": "2024-12-12T20:09:27.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AppleField.cs",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\AppleField.cs",
               "RelativeDocumentMoniker": "Snake\\AppleField.cs",
@@ -163,48 +138,25 @@
               "RelativeToolTip": "Snake\\AppleField.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:56:55.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Apple.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Apple.cs",
-              "RelativeDocumentMoniker": "Snake\\Apple.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Apple.cs",
-              "RelativeToolTip": "Snake\\Apple.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:59:31.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Server.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Server.cs",
-              "RelativeDocumentMoniker": "Snake\\Server.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Server.cs",
-              "RelativeToolTip": "Snake\\Server.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAADwv0oAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:33:10.194Z",
+              "WhenOpened": "2025-04-08T16:56:55.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Snake.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs",
-              "RelativeDocumentMoniker": "Snake\\Snake.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs",
-              "RelativeToolTip": "Snake\\Snake.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAvwOEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.Designer.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.Designer.cs",
+              "RelativeToolTip": "Snake\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:08:14.58Z"
+              "WhenOpened": "2025-04-08T13:21:35.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.cs",
               "RelativeDocumentMoniker": "Snake\\Form1.cs",
@@ -215,19 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
-              "RelativeDocumentMoniker": "Snake\\Login.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
-              "RelativeToolTip": "Snake\\Login.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:11:47.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Realtime.cs",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Realtime.cs",
               "RelativeDocumentMoniker": "Snake\\Realtime.cs",
@@ -235,53 +175,133 @@
               "RelativeToolTip": "Snake\\Realtime.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAwFUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:43:51.893Z"
+              "WhenOpened": "2024-12-12T23:43:51.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake\\Snake.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs",
+              "RelativeToolTip": "Snake\\Snake.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAA3wNYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:08:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
+              "RelativeDocumentMoniker": "Snake\\Login.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs [Design]",
+              "RelativeToolTip": "Snake\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:51:10.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
+              "RelativeDocumentMoniker": "Snake\\Login.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Login.cs",
+              "RelativeToolTip": "Snake\\Login.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwJQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:11:47.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Client.cs",
+              "RelativeDocumentMoniker": "Snake\\Client.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Client.cs",
+              "RelativeToolTip": "Snake\\Client.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:33:52.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "MovingBody.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\MovingBody.cs",
+              "RelativeDocumentMoniker": "Snake\\MovingBody.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\MovingBody.cs",
+              "RelativeToolTip": "Snake\\MovingBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:43:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "State.cs",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\State.cs",
               "RelativeDocumentMoniker": "Snake\\State.cs",
               "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\State.cs",
               "RelativeToolTip": "Snake\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:32:15.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Snake\\Form1.Designer.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Form1.Designer.cs",
-              "RelativeToolTip": "Snake\\Form1.Designer.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwFcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:21:35.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Body.cs [Design]",
-              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Body.cs",
-              "RelativeDocumentMoniker": "Snake\\Body.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\CyberWork\\Snake\\Snake\\Snake\\Body.cs [Design]",
-              "RelativeToolTip": "..\\..\\CyberWork\\Snake\\Snake\\Snake\\Body.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:09:25.803Z"
+              "WhenOpened": "2025-04-08T14:32:15.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\ServerSNAKE\\Program.cs",
+              "RelativeDocumentMoniker": "ServerSNAKE\\Program.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\ServerSNAKE\\Program.cs",
+              "RelativeToolTip": "ServerSNAKE\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:42:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Apple.cs",
+              "RelativeDocumentMoniker": "Snake\\Apple.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Apple.cs",
+              "RelativeToolTip": "Snake\\Apple.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:59:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Body.cs [Design]",
+              "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Body.cs",
+              "RelativeDocumentMoniker": "Snake\\Body.cs",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Body.cs [Design]",
+              "RelativeToolTip": "Snake\\Body.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:09:25.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Snake.cs [Design]",
               "DocumentMoniker": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs",
               "RelativeDocumentMoniker": "Snake\\Snake.cs",
-              "ToolTip": "H:\\Development\\C#\\school\\CyberWork\\Snake\\Snake\\Snake\\Snake.cs [Design]",
-              "RelativeToolTip": "..\\..\\CyberWork\\Snake\\Snake\\Snake\\Snake.cs [Design]",
+              "ToolTip": "H:\\Development\\C#\\school\\SnakeReport\\Snake\\Snake\\Snake.cs [Design]",
+              "RelativeToolTip": "Snake\\Snake.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:07:57.361Z"
+              "WhenOpened": "2024-12-12T20:07:57.361Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
